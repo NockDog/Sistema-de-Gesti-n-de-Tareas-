@@ -1,0 +1,7 @@
+C:\Users\rtbri\source\repos\TaskManagementSystem\bin\Debug\TaskManagementSystem.exe.config
+C:\Users\rtbri\source\repos\TaskManagementSystem\bin\Debug\TaskManagementSystem.exe
+C:\Users\rtbri\source\repos\TaskManagementSystem\bin\Debug\TaskManagementSystem.pdb
+C:\Users\rtbri\source\repos\TaskManagementSystem\obj\Debug\TaskManagementSystem.csproj.AssemblyReference.cache
+C:\Users\rtbri\source\repos\TaskManagementSystem\obj\Debug\TaskManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\rtbri\source\repos\TaskManagementSystem\obj\Debug\TaskManagementSystem.exe
+C:\Users\rtbri\source\repos\TaskManagementSystem\obj\Debug\TaskManagementSystem.pdb
